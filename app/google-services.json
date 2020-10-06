@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587906378314",
+    "firebase_url": "https://loginmodule-eaaa7.firebaseio.com",
+    "project_id": "loginmodule-eaaa7",
+    "storage_bucket": "loginmodule-eaaa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587906378314:android:83e0d22586c80290bdd4b3",
+        "android_client_info": {
+          "package_name": "e.himanshu.loginmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587906378314-ckpc6otpd8idrodu66g572piusfunpb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "e.himanshu.loginmodule",
+            "certificate_hash": "269bf3c2e8fbc3d5d263c743ac7ece0f07a2c41c"
+          }
+        },
+        {
+          "client_id": "587906378314-njmo8r3h3kdd0psrafrkm96oj93p5iap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMlGynFowUySPtXPsXqLl3mzqrhFdzTn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587906378314-njmo8r3h3kdd0psrafrkm96oj93p5iap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
